@@ -1,12 +1,12 @@
-# dinodev-talking
+![image](https://miro.medium.com/v2/resize:fit:679/1*qofW14aEXsACy-LnsEC7gA.png)
+# Talking AI with reactjs + threejs
 
 ```
-npm
 npm i
+npm run dev
 ```
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
 
 <h2>Tutorial</h2>
 
