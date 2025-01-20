@@ -39,6 +39,4 @@ npx ggozad/gltfjsx#fix-dependencies ./public/models/character.glb -o ./src/compo
 npm i leva
 ```
 
-fIX
-
 
