@@ -6,8 +6,6 @@ import { TalkProvider } from "./context/TalkContext";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <TalkProvider>
       <App />
-    </TalkProvider>
   </React.StrictMode>
 );

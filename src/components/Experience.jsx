@@ -9,7 +9,7 @@ export const Experience = () => {
 
   return (
     <TalkProvider>
-      <OrbitControls />
+      <OrbitControls enabled={false}/>
       {/* Custom về postion-vị trí, scale-kích thước đứng của nhân vật */}
       {/* Positon [xoay trái phải, trên dưới, xa gần] */}
       <Avatar position={[0, -3.4, 2]} scale={2.5} />
